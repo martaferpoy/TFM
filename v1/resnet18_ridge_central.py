@@ -34,9 +34,9 @@ from comet_ml import Experiment
 
 
 experiment = Experiment(
-  api_key = "Qta9GieqkZxXGHSrnJrg55z3O",
+  api_key = "",
   project_name = "apnea-bispectrum",
-  workspace="martaferpoy"
+  workspace=""
 )
 experiment.set_name("ResNet18 Ridge Central")
 
